@@ -6,7 +6,7 @@
 
 ros操作系统的一些命令如rosdep总显示链接不到source。
 
-参考[ldg个人博客]([https://ldgyyf.cn/2019/06/27/Linux/ubuntu%E4%B8%8B%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/](https://ldgyyf.cn/2019/06/27/Linux/ubuntu下科学上网/))
+参考[ldg个人博客](https://ldgyyf.cn/2019/06/27/Linux/ubuntu下科学上网/)
 
 ## 安装shadowsocks-qt5
 
