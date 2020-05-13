@@ -27,8 +27,9 @@ sudo apt-get install shadowsocks-qt5
 
 ## 配置shadowsocks-qt5
 
-添加连接： 
-![5](https://amnesiagreens-1301256683.cos.ap-chengdu.myqcloud.com/Ubuntu/shadowsocks-qt5-add)
+添加连接：
+
+![shadowsocks-qt5-add](https://amnesiagreens-1301256683.cos.ap-chengdu.myqcloud.com/Ubuntu/shadowsocks-qt5-add.jpg)
 
 填写账户：
 
